@@ -1,1 +1,1 @@
-# quarkus-grpc
+# Quarkus gRPC
